@@ -1,0 +1,256 @@
+INFO:root:Url succesfully take..
+INFO:root:Succesfully get content of url page passed as param..
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.top-ix.org
+DEBUG:urllib3.connectionpool:https://www.top-ix.org:443 "GET /it/dp/startup/ HTTP/1.1" 200 None
+INFO:root:Soup succesfully execute..
+INFO:root:Funny, list retrieved succesfully..
+INFO:root:Test operation RUNNING..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.a-grisu.com
+DEBUG:urllib3.connectionpool:http://www.a-grisu.com:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.a-grisu.com
+DEBUG:urllib3.connectionpool:https://www.a-grisu.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.ipla.org
+DEBUG:urllib3.connectionpool:http://www.ipla.org:80 "GET / HTTP/1.1" 200 8077
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.bmooble.com
+DEBUG:urllib3.connectionpool:http://www.bmooble.com:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bmooble.com
+DEBUG:urllib3.connectionpool:https://www.bmooble.com:443 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): bmooble.com
+DEBUG:urllib3.connectionpool:https://bmooble.com:443 "GET / HTTP/1.1" 200 14860
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.san.it
+DEBUG:urllib3.connectionpool:http://www.san.it:80 "GET /il-mio-condominio HTTP/1.1" 404 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.easyholidays.it
+DEBUG:urllib3.connectionpool:http://www.easyholidays.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.elvispos.com
+DEBUG:urllib3.connectionpool:http://www.elvispos.com:80 "GET / HTTP/1.1" 200 89958
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.foodraising.it
+DEBUG:urllib3.connectionpool:http://www.foodraising.it:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.foodetector.com
+DEBUG:urllib3.connectionpool:http://www.foodetector.com:80 "GET / HTTP/1.1" 200 7493
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.gooseapp.com
+DEBUG:urllib3.connectionpool:http://www.gooseapp.com:80 "GET / HTTP/1.1" 302 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.gooseapp.com
+DEBUG:urllib3.connectionpool:https://www.gooseapp.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.inorming.com
+DEBUG:urllib3.connectionpool:http://www.inorming.com:80 "GET / HTTP/1.1" 200 711
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.keganzo.com
+DEBUG:urllib3.connectionpool:http://www.keganzo.com:80 "GET / HTTP/1.1" 302 156
+DEBUG:urllib3.connectionpool:http://www.keganzo.com:80 "GET /keganzo.html HTTP/1.1" 200 4348
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.enne3.it
+DEBUG:urllib3.connectionpool:http://www.enne3.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.bancadellamemoria.it
+DEBUG:urllib3.connectionpool:http://www.bancadellamemoria.it:80 "GET / HTTP/1.1" 301 324
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.memoro.org
+DEBUG:urllib3.connectionpool:http://www.memoro.org:80 "GET /it/ HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.menopercento.com
+DEBUG:urllib3.connectionpool:http://www.menopercento.com:80 "GET / HTTP/1.1" 200 8413
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.museonazionaledelcinema.it
+DEBUG:urllib3.connectionpool:http://www.museonazionaledelcinema.it:80 "GET / HTTP/1.1" 301 233
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.museocinema.it
+DEBUG:urllib3.connectionpool:http://www.museocinema.it:80 "GET / HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:http://www.museocinema.it:80 "GET /it HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.quintetto.it
+DEBUG:urllib3.connectionpool:http://www.quintetto.it:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.quintetto.it
+DEBUG:urllib3.connectionpool:https://www.quintetto.it:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.pastbook.it
+DEBUG:urllib3.connectionpool:http://www.pastbook.it:80 "GET / HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.pastbook.com
+DEBUG:urllib3.connectionpool:https://www.pastbook.com:443 "GET / HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:https://www.pastbook.com:443 "GET /beautiful-photo-books/ HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): it.edeafactory.it
+DEBUG:urllib3.connectionpool:http://it.edeafactory.it:80 "GET / HTTP/1.1" 301 243
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.edeagroup.it
+DEBUG:urllib3.connectionpool:http://www.edeagroup.it:80 "GET /technology/ HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.regalister.com
+DEBUG:urllib3.connectionpool:http://www.regalister.com:80 "GET / HTTP/1.1" 200 1934
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): rightvforkids.weebly.com
+DEBUG:urllib3.connectionpool:http://rightvforkids.weebly.com:80 "GET / HTTP/1.1" 404 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.rilibri.it
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.ipla.org
+DEBUG:urllib3.connectionpool:http://www.ipla.org:80 "GET / HTTP/1.1" 200 8077
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.spreaker.com
+DEBUG:urllib3.connectionpool:http://www.spreaker.com:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.spreaker.com
+DEBUG:urllib3.connectionpool:https://www.spreaker.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.trasferimentoapplicativo.org
+DEBUG:urllib3.connectionpool:http://www.trasferimentoapplicativo.org:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:http://www.trasferimentoapplicativo.org:80 "GET /doku.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): tykli.com
+DEBUG:urllib3.connectionpool:http://tykli.com:80 "GET / HTTP/1.1" 200 8672
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.ustation.it
+DEBUG:urllib3.connectionpool:http://www.ustation.it:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): ustation.it
+DEBUG:urllib3.connectionpool:http://ustation.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.vicinidcasa.com
+DEBUG:urllib3.connectionpool:http://www.vicinidcasa.com:80 "GET / HTTP/1.1" 403 328
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.vcast.it
+DEBUG:urllib3.connectionpool:http://www.vcast.it:80 "GET / HTTP/1.1" 301 320
+DEBUG:urllib3.connectionpool:http://www.vcast.it:80 "GET /Web/VCastBroker HTTP/1.1" 301 307
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www2.vcast.it
+DEBUG:urllib3.connectionpool:https://www2.vcast.it:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): video.mg
+DEBUG:urllib3.connectionpool:http://video.mg:80 "GET / HTTP/1.1" 200 692
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.xcally.com
+DEBUG:urllib3.connectionpool:http://www.xcally.com:80 "GET /it/ HTTP/1.1" 301 234
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.xcally.com
+DEBUG:urllib3.connectionpool:https://www.xcally.com:443 "GET /it/ HTTP/1.1" 200 43551
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.mitosettembremusica.it
+DEBUG:urllib3.connectionpool:http://www.mitosettembremusica.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.atlas.polito.it
+DEBUG:urllib3.connectionpool:http://www.atlas.polito.it:80 "GET / HTTP/1.1" 200 4002
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.berlinale.de
+DEBUG:urllib3.connectionpool:http://www.berlinale.de:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.berlinale.de
+DEBUG:urllib3.connectionpool:https://www.berlinale.de:443 "GET / HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:https://www.berlinale.de:443 "GET /en/HomePage.html HTTP/1.1" 200 8016
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.blender.org
+DEBUG:urllib3.connectionpool:http://www.blender.org:80 "GET / HTTP/1.1" 301 232
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.blender.org
+DEBUG:urllib3.connectionpool:https://www.blender.org:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.fastbull.org
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.centopagine.it
+DEBUG:urllib3.connectionpool:http://www.centopagine.it:80 "GET / HTTP/1.1" 503 2616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): http
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.csp.it
+DEBUG:urllib3.connectionpool:http://www.csp.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.csp.it
+DEBUG:urllib3.connectionpool:http://www.csp.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.csp.it
+DEBUG:urllib3.connectionpool:http://www.csp.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.csp.it
+DEBUG:urllib3.connectionpool:http://www.csp.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): it.dbpedia.org
+DEBUG:urllib3.connectionpool:http://it.dbpedia.org:80 "GET / HTTP/1.1" 200 6257
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.everyaware.eu
+DEBUG:urllib3.connectionpool:http://www.everyaware.eu:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.gamezoo.it
+DEBUG:urllib3.connectionpool:http://www.gamezoo.it:80 "GET / HTTP/1.1" 200 4281
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.gentoo.org
+DEBUG:urllib3.connectionpool:http://www.gentoo.org:80 "GET / HTTP/1.1" 301 178
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.gentoo.org
+DEBUG:urllib3.connectionpool:https://www.gentoo.org:443 "GET / HTTP/1.1" 200 22134
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.associazionetesso.org
+DEBUG:urllib3.connectionpool:http://www.associazionetesso.org:80 "GET / HTTP/1.1" 200 7439
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.irencollabora.it
+DEBUG:urllib3.connectionpool:http://www.irencollabora.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.midhgard.it
+DEBUG:urllib3.connectionpool:http://www.midhgard.it:80 "GET / HTTP/1.1" 200 6446
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.onlusmarianna.org
+DEBUG:urllib3.connectionpool:http://www.onlusmarianna.org:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.themacproject.org
+DEBUG:urllib3.connectionpool:http://www.themacproject.org:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.themacproject.org
+DEBUG:urllib3.connectionpool:https://www.themacproject.org:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.mountainwilderness.it
+DEBUG:urllib3.connectionpool:http://www.mountainwilderness.it:80 "GET / HTTP/1.1" 301 182
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.mountainwilderness.it
+DEBUG:urllib3.connectionpool:https://www.mountainwilderness.it:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): nexa.polito.it
+DEBUG:urllib3.connectionpool:http://nexa.polito.it:80 "GET /neubot HTTP/1.1" 301 194
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nexa.polito.it
+DEBUG:urllib3.connectionpool:https://nexa.polito.it:443 "GET /neubot HTTP/1.1" 200 12957
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.openmamba.org
+DEBUG:urllib3.connectionpool:http://www.openmamba.org:80 "GET / HTTP/1.1" 301 228
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): openmamba.org
+DEBUG:urllib3.connectionpool:http://openmamba.org:80 "GET / HTTP/1.1" 302 206
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): openmamba.org
+DEBUG:urllib3.connectionpool:https://openmamba.org:443 "GET / HTTP/1.1" 302 0
+DEBUG:urllib3.connectionpool:https://openmamba.org:443 "GET /en/ HTTP/1.1" 200 5807
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.orcosoana.tv
+DEBUG:urllib3.connectionpool:http://www.orcosoana.tv:80 "GET / HTTP/1.1" 200 5674
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): wiki.openstreetmap.org
+DEBUG:urllib3.connectionpool:http://wiki.openstreetmap.org:80 "GET /wiki/Osmose HTTP/1.1" 200 16623
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.planeshift.it
+DEBUG:urllib3.connectionpool:http://www.planeshift.it:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.prometeolibero.eu
+DEBUG:urllib3.connectionpool:http://www.prometeolibero.eu:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): prometeolibero.eu
+DEBUG:urllib3.connectionpool:http://prometeolibero.eu:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): prometeolibero.eu
+DEBUG:urllib3.connectionpool:https://prometeolibero.eu:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.colorideibambini.eu
+DEBUG:urllib3.connectionpool:http://www.colorideibambini.eu:80 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.rocktelevision.com
+DEBUG:urllib3.connectionpool:http://www.rocktelevision.com:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www1.rocktelevision.com
+DEBUG:urllib3.connectionpool:http://www1.rocktelevision.com:80 "GET /?kw=watch%20music%20live HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sabayon.org
+DEBUG:urllib3.connectionpool:http://www.sabayon.org:80 "GET / HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sabayon.org
+DEBUG:urllib3.connectionpool:https://www.sabayon.org:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sisveltechnology.com
+DEBUG:urllib3.connectionpool:http://www.sisveltechnology.com:80 "GET / HTTP/1.1" 200 21671
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.skuola.net
+DEBUG:urllib3.connectionpool:http://www.skuola.net:80 "GET / HTTP/1.1" 301 178
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.skuola.net
+DEBUG:urllib3.connectionpool:https://www.skuola.net:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.spleenwebtv.it
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.berlinale-talentcampus.de
+DEBUG:urllib3.connectionpool:http://www.berlinale-talentcampus.de:80 "GET / HTTP/1.1" 200 28679
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.telebiella.it
+DEBUG:urllib3.connectionpool:http://www.telebiella.it:80 "GET / HTTP/1.1" 200 6303
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.topcontierra.com
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.trashware.it
+DEBUG:urllib3.connectionpool:http://www.trashware.it:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.trashware.it
+DEBUG:urllib3.connectionpool:http://www.trashware.it:80 "GET /RNpcZ/ HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.trashware.it
+DEBUG:urllib3.connectionpool:http://www.trashware.it:80 "GET / HTTP/1.1" 200 342
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.ubuntu-it.org
+DEBUG:urllib3.connectionpool:http://www.ubuntu-it.org:80 "GET / HTTP/1.1" 301 316
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ubuntu-it.org
+DEBUG:urllib3.connectionpool:https://www.ubuntu-it.org:443 "GET / HTTP/1.1" 200 6016
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.venaria.tv
+DEBUG:urllib3.connectionpool:http://www.venaria.tv:80 "GET / HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.venaria.tv
+DEBUG:urllib3.connectionpool:http://www.venaria.tv:80 "GET /pages/Home/237 HTTP/1.1" 200 7906
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): livinglabs.csp.it
+DEBUG:urllib3.connectionpool:http://livinglabs.csp.it:80 "GET /timeline-e-progetti/vivivalsesia HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:http://livinglabs.csp.it:80 "GET /vivivalsesia-incontro-con-il-sindaco-per-il-passaggio-di-consegne-al-comune-di-varallo/ HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): piemonte.engim.it
+DEBUG:urllib3.connectionpool:http://piemonte.engim.it:80 "GET / HTTP/1.1" 200 28196
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): http
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.accademiadellescienze.it
+DEBUG:urllib3.connectionpool:http://www.accademiadellescienze.it:80 "GET / HTTP/1.1" 302 161
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.accademiadellescienze.it
+DEBUG:urllib3.connectionpool:https://www.accademiadellescienze.it:443 "GET / HTTP/1.1" 301 185
+DEBUG:urllib3.connectionpool:http://www.accademiadellescienze.it:80 "GET /home HTTP/1.1" 302 161
+DEBUG:urllib3.connectionpool:https://www.accademiadellescienze.it:443 "GET /home HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): wiildos.wikispaces.com
+DEBUG:urllib3.connectionpool:http://wiildos.wikispaces.com:80 "GET / HTTP/1.1" 302 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): session.wikispaces.com
+DEBUG:urllib3.connectionpool:https://session.wikispaces.com:443 "GET /1/auth/auth?authToken=cca4a0b2ae6e292a013f07a3a7c4dc49 HTTP/1.1" 302 0
+DEBUG:urllib3.connectionpool:http://wiildos.wikispaces.com:80 "GET /?responseToken=cca4a0b2ae6e292a013f07a3a7c4dc49 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:http://wiildos.wikispaces.com:80 "GET /Pagina+iniziale HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.ilpopolochemanca.it
+DEBUG:urllib3.connectionpool:http://www.ilpopolochemanca.it:80 "GET / HTTP/1.1" 200 342
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.eazyfill.com
+DEBUG:urllib3.connectionpool:http://www.eazyfill.com:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.eazyfill.com
+DEBUG:urllib3.connectionpool:http://www.eazyfill.com:80 "GET /NcpNZ/ HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.eazyfill.com
+DEBUG:urllib3.connectionpool:http://www.eazyfill.com:80 "GET / HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.eazyfill.com
+DEBUG:urllib3.connectionpool:http://www.eazyfill.com:80 "GET /WKbMa/ HTTP/1.1" 302 None
+DEBUG:urllib3.connectionpool:Resetting dropped connection: www.eazyfill.com
+DEBUG:urllib3.connectionpool:http://www.eazyfill.com:80 "GET / HTTP/1.1" 200 343
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): http
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.lacestraining.com
+DEBUG:urllib3.connectionpool:http://www.lacestraining.com:80 "GET / HTTP/1.1" 302 214
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.lacestraining.com
+ERROR:urllib3.connection:Certificate did not match expected hostname: www.lacestraining.com. Certificate: {'crlDistributionPoints': (u'http://crl.comodoca.com/COMODORSADomainValidationSecureServerCA.crl',), 'subjectAltName': (('DNS', 'lacestraining.com'), ('DNS', 'store.lacestraining.com')), 'notBefore': u'Mar 17 00:00:00 2017 GMT', 'caIssuers': (u'http://crt.comodoca.com/COMODORSADomainValidationSecureServerCA.crt',), 'OCSP': (u'http://ocsp.comodoca.com',), 'serialNumber': u'20FEF7B75AD32F0848F16B5F1DE93A6A', 'notAfter': 'Mar 17 23:59:59 2018 GMT', 'version': 3L, 'subject': ((('organizationalUnitName', u'Domain Control Validated'),), (('organizationalUnitName', u'PositiveSSL Multi-Domain'),), (('commonName', u'lacestraining.com'),)), 'issuer': ((('countryName', u'GB'),), (('stateOrProvinceName', u'Greater Manchester'),), (('localityName', u'Salford'),), (('organizationName', u'COMODO CA Limited'),), (('commonName', u'COMODO RSA Domain Validation Secure Server CA'),))}
+WARNING:root:ConnectionTimeout exception error..
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): vistadaqui.compagniadisanpaolo.it
+DEBUG:urllib3.connectionpool:http://vistadaqui.compagniadisanpaolo.it:80 "GET / HTTP/1.1" 200 3678
+INFO:root:Test operation COMPLETED..
+**************
+***************
+
